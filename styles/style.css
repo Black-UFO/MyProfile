@@ -497,6 +497,10 @@ header .menu.sun .menuBtn.changeMode #changeModeBtn {
     display: none;
   }
 
+ .container{
+    width: 100%;
+  }
+  
   .container .main {
     width: 100%;
     padding: 0;
@@ -554,6 +558,7 @@ header .menu.sun .menuBtn.changeMode #changeModeBtn {
     flex-direction: column;
     align-items: center;
     margin-top: 100px;
+    width: 100%;
   }
 
   .container2 .infoBox {
@@ -564,5 +569,7 @@ header .menu.sun .menuBtn.changeMode #changeModeBtn {
 
   .container2 footer {
     bottom: -650px;
+    width:99%;
   }
 }
+
