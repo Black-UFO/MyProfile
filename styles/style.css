@@ -558,7 +558,7 @@ header .menu.sun .menuBtn.changeMode #changeModeBtn {
     flex-direction: column;
     align-items: center;
     margin-top: 100px;
-    width: 100%;
+    width: 95%;
   }
 
   .container2 .infoBox {
@@ -572,4 +572,5 @@ header .menu.sun .menuBtn.changeMode #changeModeBtn {
     width:99%;
   }
 }
+
 
