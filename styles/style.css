@@ -502,6 +502,9 @@ header .menu.sun .menuBtn.changeMode #changeModeBtn {
  .container{
     width: 100%;
   }
+
+  .container .phonenum {
+    display  :none;
   
   .container .main {
     width: 100%;
@@ -574,6 +577,7 @@ header .menu.sun .menuBtn.changeMode #changeModeBtn {
     width:99%;
   }
 }
+
 
 
 
