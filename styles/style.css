@@ -361,6 +361,8 @@ header .menu.sun .menuBtn.changeMode #changeModeBtn {
 .container2 {
   position: relative;
   display: flex;
+  flex-direction:column;
+  align-item:center;
   justify-content: space-around;
   width: 100%;
   height: 100vh;
@@ -572,5 +574,6 @@ header .menu.sun .menuBtn.changeMode #changeModeBtn {
     width:99%;
   }
 }
+
 
 
