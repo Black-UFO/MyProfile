@@ -284,7 +284,7 @@ header .menu.sun .menuBtn.changeMode #changeModeBtn {
 }
 
 .profileimg {
-  transform: translateX(45%);
+  width:65%;
 }
 
 .container.light .main .picFrame {
@@ -548,7 +548,9 @@ header .menu.sun .menuBtn.changeMode #changeModeBtn {
    } 
 
    .profileimg {
-    width: 65%;
+    position: static;
+    transform: translateX(50%);
+    left: -50%;
    }
 
   .container .main .profileimg .picFrame{
@@ -586,4 +588,5 @@ header .menu.sun .menuBtn.changeMode #changeModeBtn {
     width: 100%;
   }
 }
+
 
