@@ -549,7 +549,7 @@ header .menu.sun .menuBtn.changeMode #changeModeBtn {
 
    .profileimg {
     position: static;
-    transform: translateX(50%);
+    transform: translateX(35%);
     left: -50%;
    }
 
@@ -588,5 +588,6 @@ header .menu.sun .menuBtn.changeMode #changeModeBtn {
     width: 100%;
   }
 }
+
 
 
